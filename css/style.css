@@ -587,10 +587,11 @@ h6 {
 #services {
   padding: 60px 0 40px 0;
   box-shadow: inset 0px 0px 12px 0px rgba(0, 0, 0, 0.1);
+  background-color: #e9e7e8;
 }
 
 #services .box {
-  padding: 30px;
+  padding: 20px;
   position: relative;
   overflow: hidden;
   border-radius: 10px;
